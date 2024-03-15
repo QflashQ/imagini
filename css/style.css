@@ -1,0 +1,19 @@
+body { 
+    background-color: rgb(0, 0, 0);
+    color: rgb(3, 160, 3);
+}
+
+#ip {
+/* width: 300px; */
+/* width: 75%; */
+height: 400px;
+margin: 0px auto;
+display: block;
+}
+
+.galerie {
+    width: 200px;
+    margin: 0 5px;
+    height: 200px;
+    object-fit: cover;
+}
